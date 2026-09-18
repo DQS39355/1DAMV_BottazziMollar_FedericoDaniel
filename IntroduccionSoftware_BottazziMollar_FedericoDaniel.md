@@ -33,4 +33,4 @@ binario pero incompleta.
 **Mantenimiento:** Es una fase continua donde se actualiza el programa, se corrigen fallos nuevos y se añaden mejoras con el tiempo.
 
 
-[Link al repositorio](https://github.com/DQS39355/1DAMVirtual_BottazziMollar_FedericoDaniel)
+[Link al repositorio](https://github.com/DQS39355/1DAMV_BottazziMollar_FedericoDaniel)
