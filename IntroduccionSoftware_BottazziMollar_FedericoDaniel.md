@@ -1,14 +1,14 @@
-#Ejercicio 1DAM - 01 - Desarrollo de un Programa Informático
+# Ejercicio 1DAM - 01 - Desarrollo de un Programa Informático
 
 ![Portada](img/dam_portada.jpg)
 
-##**¿Qué es un programa informático?**
+## **¿Qué es un programa informático?**
 
 >*Un programa informático es una secuencia de instrucciones escritas en un*
 >*lenguaje de programación que le indica a una computadora qué tareas debe*
 >*realizar y cómo resolver un problema específico.*
 
-##**Diferencia entre código fuente, código objeto y código ejecutable.**
+## **Diferencia entre código fuente, código objeto y código ejecutable.**
 
 - El código fuente es el texto original escrito por un humano en un lenguaje 
 de programación. 
@@ -16,7 +16,7 @@ de programación.
 binario pero incompleta.
 - El código ejecutable es el resultado final unido y listo para correr en la máquina.
 
-##**Etapas del desarrollo del software.**
+## **Etapas del desarrollo del software.**
 
 **Planificación:** Se definen los objetivos del proyecto, el alcance, los plazos, el presupuesto y los recursos necesarios.
 
@@ -32,4 +32,5 @@ binario pero incompleta.
 
 **Mantenimiento:** Es una fase continua donde se actualiza el programa, se corrigen fallos nuevos y se añaden mejoras con el tiempo.
 
-[Repositorio](https://github.com/DQS39355/1DAMVirtual_BottazziMollar_FedericoDaniel)
+
+[Link al repositorio](https://github.com/DQS39355/1DAMVirtual_BottazziMollar_FedericoDaniel)
