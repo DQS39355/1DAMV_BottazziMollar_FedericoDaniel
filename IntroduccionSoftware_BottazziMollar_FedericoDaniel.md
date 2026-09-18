@@ -1,6 +1,6 @@
 # Ejercicio 1DAM - 01 - Desarrollo de un Programa Informático
 
-![Portada](img/dam_portada.jpg)
+![Portada](https://github.com/DQS39355/1DAMV_BottazziMollar_FedericoDaniel/blob/main/img/dam_portada.jpg)
 
 ## **¿Qué es un programa informático?**
 
